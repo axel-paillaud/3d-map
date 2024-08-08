@@ -1,2 +1,4 @@
 import "./style.css";
-import "./src/map.js";
+
+import * as THREE from "three";
+import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
